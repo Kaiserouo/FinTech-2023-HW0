@@ -1,0 +1,54 @@
+(base) kaiserouo@Kouo-Laptop:/mnt/e/課堂PPT/金融科技導論 2023/2024-Spring-HW0/hw0$ forge script script/Counter.s.sol:CounterScript --rpc-url $SEPOLIA_RPC --broadcast -vvv
+[⠰] Compiling...
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  0x8846fdAAAB0Ba4483b0C47872B0d38E5f8c814aF
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 11155111
+
+Estimated gas price: 20.392547918 gwei
+
+Estimated total gas used for script: 138734
+
+Estimated amount required: 0.002829139742855812 ETH
+
+==========================
+
+###
+Finding wallets for all the necessary addresses...
+##
+Sending transactions [0 - 0].
+⠁ [00:00:00] [###########################################################################################################] 1/1 txes (0.0s)Transactions saved to: /mnt/e/課堂PPT/金融科技導論 2023/2024-Spring-HW0/hw0/broadcast/Counter.s.sol/11155111/run-latest.json
+
+Sensitive values saved to: /mnt/e/課堂PPT/金融科技導論 2023/2024-Spring-HW0/hw0/cache/Counter.s.sol/11155111/run-latest.json
+
+##
+Waiting for receipts.
+⠉ [00:00:13] [#######################################################################################################] 1/1 receipts (0.0s)
+##### sepolia
+✅  [Success]Hash: 0x77ee06f69d30db0705b95adab827898215dade51f4ce6fe9b10d85028e933d05
+Contract Address: 0x8846fdAAAB0Ba4483b0C47872B0d38E5f8c814aF
+Block: 5333585
+Paid: 0.001394966992476324 ETH (106737 gas * 13.069198052 gwei)
+
+
+Transactions saved to: /mnt/e/課堂PPT/金融科技導論 2023/2024-Spring-HW0/hw0/broadcast/Counter.s.sol/11155111/run-latest.json
+
+Sensitive values saved to: /mnt/e/課堂PPT/金融科技導論 2023/2024-Spring-HW0/hw0/cache/Counter.s.sol/11155111/run-latest.json
+
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+Total Paid: 0.001394966992476324 ETH (106737 gas * avg 13.069198052 gwei)
+
+Transactions saved to: /mnt/e/課堂PPT/金融科技導論 2023/2024-Spring-HW0/hw0/broadcast/Counter.s.sol/11155111/run-latest.json
+
+Sensitive values saved to: /mnt/e/課堂PPT/金融科技導論 2023/2024-Spring-HW0/hw0/cache/Counter.s.sol/11155111/run-latest.json
